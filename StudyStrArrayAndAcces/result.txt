@@ -1,0 +1,86 @@
+
+22:10:20: Starting E:/aws/build-StudyStrArrayAndAcces-Qt5_12_12msvc2015-Debug/StudyStrArrayAndAcces.exe...
+Hello World!
+---> i=0
+         info:
+         testArr=
+         strlen(testArr)=0
+         chekIfEnd, res=0
+         setThird:
+         chekIfEnd, res=0
+         info:
+         testArr=
+         strlen(testArr)=0
+---> i=1
+         info:
+         testArr=
+         strlen(testArr)=0
+         chekIfEnd, res=0
+         setThird:
+         chekIfEnd, res=0
+         info:
+         testArr=
+         strlen(testArr)=0
+---> i=2
+         info:
+         testArr=a
+         strlen(testArr)=1
+         chekIfEnd, res=1
+         setThird:
+         chekIfEnd, res=1
+         info:
+         testArr=a
+         strlen(testArr)=1
+---> i=3
+         info:
+         testArr=a
+         strlen(testArr)=1
+         chekIfEnd, res=1
+         setThird:
+         chekIfEnd, res=1
+         info:
+         testArr=a
+         strlen(testArr)=1
+---> i=4
+         info:
+         testArr=ab
+         strlen(testArr)=2
+         chekIfEnd, res=2
+         setThird:
+         chekIfEnd, res=2
+         info:
+         testArr=ab
+         strlen(testArr)=2
+---> i=5
+         info:
+         testArr=ab
+         strlen(testArr)=2
+         chekIfEnd, res=2
+         setThird:
+         chekIfEnd, res=2
+         info:
+         testArr=ab
+         strlen(testArr)=2
+---> i=6
+         info:
+         testArr=abcabc	 info:
+
+         strlen(testArr)=15
+         chekIfEnd, res=15
+         setThird:
+         chekIfEnd, res=2
+         info:
+         testArr=ab
+         strlen(testArr)=2
+---> i=7
+         info:
+         testArr=abc	 info:
+
+         strlen(testArr)=12
+         chekIfEnd, res=12
+         setThird:
+         chekIfEnd, res=2
+         info:
+         testArr=ab
+         strlen(testArr)=2
+22:10:21: E:/aws/build-StudyStrArrayAndAcces-Qt5_12_12msvc2015-Debug/StudyStrArrayAndAcces.exe exited with code 0
