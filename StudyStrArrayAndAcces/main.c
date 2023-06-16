@@ -13,11 +13,12 @@ void info(char *  testArr){
 
 void setThird(char *  testArr){
     printf("\t setThird: \n");
-   if(0) testArr[2]='\0';
+    if(1) testArr[2]='\0';
 
-   if(strlen(testArr)>=2 )testArr[2]='\0';
-  else if(strlen(testArr)==1 )testArr[1]='\0';
-  else if(strlen(testArr)==0 )testArr[0]='\0';
+    if(0){  if(strlen(testArr)>=2 )testArr[2]='\0';
+        else if(strlen(testArr)==1 )testArr[1]='\0';
+        else if(strlen(testArr)==0 )testArr[0]='\0';
+    }
 }
 
 int chekIfEnd(char *  testArr){
