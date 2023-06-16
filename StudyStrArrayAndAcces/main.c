@@ -36,7 +36,8 @@ int main()
     for(int i=0;i<8;i++){
         printf("---> i=%d\n",i);
         info(testArr[i]);
-//        setThird(testArr[i]);
+        chekIfEnd(testArr[i]);
+        setThird(testArr[i]);
         chekIfEnd(testArr[i]);
         info(testArr[i]);
     }
