@@ -1,7 +1,8 @@
 #include <stdio.h>
 char testArr[8][3]={
-    "","\0","a\0",
-    "a","ab","ab\0",
+    "","\0"
+    ,"a\0",  "a"
+    ,"ab","ab\0",
     "abc","abc\0"
 };
 
